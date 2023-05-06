@@ -4,7 +4,7 @@
 The perfect platform for anyone who loves to laugh, share and enjoy the best and funniest memes on the internet
 
 # Screenshots
-![screenshot](file:///C:/Users/HP/Downloads/WhatsApp%20Image%202023-05-06%20at%203.53.40%20PM.jpeg)
+![screenshot](https://raw.githubusercontent.com/BytesBrawler/images/main/screenshots/memes%20hub.jpeg)
 
 # Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white&style=for-the-badge)
